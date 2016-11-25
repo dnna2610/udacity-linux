@@ -1,5 +1,5 @@
 # Configuring Linux Server
-* IP Address: 35.164.221.235
+* IP Address: `35.164.221.235`
 * SSH Port: 2200
 * Url: [link](http://35.164.221.235)
 * Summary of software installed and configuration made
